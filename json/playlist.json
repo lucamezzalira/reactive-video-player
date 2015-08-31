@@ -1,0 +1,20 @@
+{
+  "playlist": [
+    {
+      "title": "Big Buck Bunny - HD 60fps",
+      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_60fps_normal.mp4"
+    },
+    {
+      "title": "Big Buck Bunny - HD 30fps",
+      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_1080p_30fps_normal.mp4"
+    },
+    {
+      "title": "Big Buck Bunny - 4K 60fps",
+      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_60fps_normal.mp4"
+    },
+    {
+      "title": "Big Buck Bunny - 4K 30fps",
+      "url": "http://distribution.bbb3d.renderfarming.net/video/mp4/bbb_sunflower_2160p_30fps_normal.mp4"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "react-videoplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "babel src --nonStandard true --loose all --modules ignore --out-file bin/app.js",
+    "server": "json-server --watch json/playlist.json"
+  },
+  "author": "luca mezzalira <mezzalab@gmail.com> (http://lucamezzalira.com)",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-bootstrap": "^0.25.0"
+  },
+  "devDependencies": {
+    "babel": "^5.8.21",
+    "babelify": "^6.2.0",
+    "browserify": "^11.0.1",
+    "gulp": "^3.9.0",
+    "gulp-watch": "^4.3.5",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
